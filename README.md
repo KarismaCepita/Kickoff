@@ -29,4 +29,4 @@ En el script de “Menu”, crear una función llamada “delete” donde al ser
 Aplicado
 
 Agregar a la escena “Menu” al grupo “blocks”.
-
+Aplicado
